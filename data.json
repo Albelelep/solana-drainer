@@ -1,0 +1,6 @@
+{
+  "rpc": "https://api.mainnet-beta.solana.com",
+  "payer": [],
+  "receiver": "",
+  "interval": 1
+}
